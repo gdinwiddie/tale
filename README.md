@@ -41,6 +41,13 @@ The story snippet preceding your turn is a gift. Use details from it in your sni
 
 Don't hog the limelight. Make sure everyone is getting opportunities to contribute. The spinner is intended to keep the rotation of Story Tellers unpredictable, but sometimes it doesn't play fair. That's why we added the rule that if the current Story Teller is indicated again by the spinner, they get to choose the next Story Teller. Choose wisely to keep people involved and the story interesting.
 
+Building The Game
+-----------------
+
+I created the Spinner by printing Spinner.png in color and pasting it on cardboard. Then I pushed a T-pin up through the center for an axle and held it vertical with tape on the bottom side. On the top side, I put a small washer, a pointer, another small washer, and a small piece of wood to cover the point of the T-pin. My T-pin was too tall, so I cut it shorter. You can buy plastic spinners from game supply stores, but I made mine from a craft popsicle stick with a small hole drilled in the center.
+
+I printed the cards on colored 3x5 inch index cards. On my printer I have to hand feed these, so I print the front sides first. Then I print as many copies of the back side as needed, hand-feeding the same cards through, turned over.
+
 Embellishments
 --------------
 
@@ -52,3 +59,5 @@ The Future
 ----------
 
 At this writing, this game has only been played twice, both times in one Game Night at Agile Testing Days 2018 in Potsdam Germany. I'm sure it can be improved and embellished further. Let me hear from you.
+
+When creating a copy of this game, create some blank Role, Event, and Assumption Cards. The players can then enhance the game on the fly. If these enhancements contribute to the fun and exploration, then add them permanently to the game.
